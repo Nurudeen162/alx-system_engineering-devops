@@ -1,0 +1,18 @@
+ls-l" >> 5-listfilesdigitonly
+git add .
+echo ls-l >> 5-listfilesdigitonly
+git add .
+echo 'ls-l
+ls-l" >> 5-listfilesdigitonly
+git add .
+echo ls-l >> 5-listfilesdigitonly
+git add . 
+echo 'ls-l
+ls-l" >> 5-listfilesdigitonly
+git add . 
+git commit -m "Task 5"
+echo ls-l >> 5-listfilesdigitonly
+git add . 
+git commit -m Task 5
+echo '#!/bin/bash' > 5-listfilesdigitonly
+echo 'ls-l
